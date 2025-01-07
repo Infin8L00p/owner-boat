@@ -4,3 +4,4 @@
 Protected info
 More protected info
 Adding some more protected info
+Some new protected info
