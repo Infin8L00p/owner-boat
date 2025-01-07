@@ -1,0 +1,4 @@
+files:
+  'protected-file.md':
+    - team:blue-team
+    - team:red-team
